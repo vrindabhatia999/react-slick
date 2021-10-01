@@ -1,0 +1,25 @@
+body {
+  background-color: #000;
+  display: grid;
+  height: 100vh;
+  margin: 0;
+  place-items: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.slider {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+img {
+  background-color: #666;
+  color: #fff;
+  margin: 0 15px;
+}
